@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chris-22ozor
 - 👀 I’m interested in Data Science( BI Intelligence and Machine Learning)
-- 🌱 I’m currently learning on SuperDataScience
+- 🌱 I’m currently learning and building on SuperDataScience Platform
 - 💞️ I’m looking to collaborate for now on Power BI projects
 - 📫 How to reach me
 
