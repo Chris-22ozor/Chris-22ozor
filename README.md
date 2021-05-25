@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Chris-22ozor
-- 👀 I’m interested in Data Science( BI Intelligence and Machine Learning)
-- 🌱 I’m currently learning and building on SuperDataScience Platform
-- 💞️ I’m looking to collaborate for now on Power BI projects
-- 📫 How to reach me
+- 👋 Hi, I’m Christian Ozoemene
+- 👀 I’m interested in Data Science, leveraging Big Data to drive business strategy, revamp customer experience and revolutionize existing operational processes
+- 🌱 I’m currently working on transforming business strategy through Customer segmentation models
+- 💞️ I’m looking to collaborate on Power BI projects
+- 📫 How to reach me  https://www.linkedin.com/in/christian-ozoemene-996956b3/, https://twitter.com/Chrisozoem
 
 <!---
 Chris-22ozor/Chris-22ozor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
